@@ -1,0 +1,117 @@
+Türkçe Gizlilik Politikası
+
+LOOPORA — Gizlilik Politikası
+Son güncelleme: 23 Kasım 2026
+Uygulama: LOOPORA (com.toprak.loopora)
+İletişim: info@linesofthebrain.com
+
+LOOPORA gizliliğinize saygı duyar. Uygulama hesap oluşturmanızı gerektirmez ve kişisel verilerinizi hiçbir sunucuya göndermez. Tüm verileriniz yalnızca kendi cihazınızda saklanır.
+
+1. Toplanan ve Cihazda Saklanan Veriler
+
+LOOPORA, uygulamanın temel işlevlerini sunabilmek için aşağıdaki bilgileri yalnızca cihazınızın yerel depolama alanında saklar:
+
+Günlük adım sayınız ve adım geçmişiniz
+Adım sayısına göre hesaplanan mesafe ve tahmini kalori verileri
+Günlük ve haftalık adım hedefleriniz, seri (streak), rozet ve sprint kayıtlarınız
+Hesaplamaların doğruluğu için sizin girdiğiniz kilo, boy ve (isteğe bağlı olarak) yaş ile cinsiyet bilgileriniz
+Tema, dil ve bildirim tercihleriniz
+
+Bu veriler hiçbir uzak sunucuya aktarılmaz, bulutta tutulmaz ve geliştirici tarafından görüntülenemez.
+
+2. Fiziksel Aktivite ve Sağlık Verileri (Health Connect / HealthKit)
+Adım Sensörü İzni (ACTIVITY_RECOGNITION): Uygulama, günlük adımlarınızı ve sprint modundaki adım sayınızı ölçmek için cihazınızın donanım adım sayar sensörünü kullanır.
+Health Connect (Android) ve HealthKit (iOS): Açık izninizle uygulama, Health Connect (READ_STEPS, READ_HEALTH_DATA_HISTORY) veya HealthKit üzerinden yalnızca adım sayınızı ve adım geçmişinizi okur. Sağlık uygulamasına herhangi bir veri yazılmaz.
+Sınırlı Kullanım: Health Connect / HealthKit üzerinden erişilen adım verileri yalnızca uygulamanın kendi ekranlarında (günlük adım sayacı, geçmiş grafikleri, seri ve rozet hesaplamaları ile ana ekran widget'ı) gösterilmek amacıyla kullanılır. Bu veriler cihazınızdan dışarı çıkmaz; reklam, pazarlama, profilleme veya başka bir amaçla kullanılmaz, üçüncü taraflarla paylaşılmaz ve satılmaz.
+Verdiğiniz sensör ve sağlık verisi izinlerini istediğiniz zaman cihazınızın sistem ayarlarından geri alabilirsiniz.
+3. İnternet Erişimi, Üçüncü Taraflar ve Veri Paylaşımı
+
+LOOPORA'nın internet izni yoktur. Uygulama içinde reklam ağı, analitik servisi, çökme raporlayıcı veya kullanıcı takibi yapan herhangi bir üçüncü taraf SDK bulunmaz. Verileriniz üçüncü taraflarla paylaşılmaz, aktarılmaz ve satılmaz.
+
+4. Bildirimler
+
+Günlük hatırlatma, hedef tamamlama, haftalık özet ve aylık yedekleme hatırlatmaları tamamen cihazınızda yerel olarak oluşturulur (POST_NOTIFICATIONS, RECEIVE_BOOT_COMPLETED). Bildirimler için herhangi bir sunucu kullanılmaz.
+
+5. Yedekleme ve Geri Yükleme
+
+Uygulama içinde oluşturduğunuz yedek dosyaları yalnızca sizin talebinizle hazırlanır. Yedeği nereye kaydedeceğinize veya kiminle paylaşacağınıza tamamen siz karar verirsiniz. Uygulama verilerinizi kendiliğinden hiçbir yere yüklemez.
+
+6. Veri Saklama ve Silme
+
+Verileriniz yalnızca cihazınızda tutulur ve siz silene kadar cihazda kalır:
+
+Uygulama içindeki Profil → Tüm verilerimi sil seçeneğiyle adım geçmişinizi, profil bilgilerinizi, hedeflerinizi ve sprint kayıtlarınızı anında ve kalıcı olarak silebilirsiniz.
+Uygulamayı kaldırmak veya cihaz ayarlarından uygulama verilerini temizlemek de tüm yerel verileri siler.
+Verilerinizin başka bir yerde kopyası tutulmadığı için ayrıca bir veri silme talebi göndermenize gerek yoktur.
+Health Connect / Apple Sağlık içindeki adım verileri işletim sistemine aittir ve LOOPORA tarafından silinmez; bu verileri ilgili sistem uygulamasından yönetebilirsiniz.
+7. Çocukların Gizliliği
+
+LOOPORA çocuklara yönelik değildir ve 13 yaşından küçük kullanıcıları hedeflemez. Uygulama hiçbir kişisel veriyi toplamadığı ve dışarı aktarmadığı için çocuklara ait herhangi bir veri de toplanmaz.
+
+8. Gizlilik Politikasındaki Değişiklikler
+
+Bu gizlilik politikası gerektiğinde güncellenebilir. Değişiklik yapıldığında sayfanın üst kısmındaki "Son güncelleme" tarihi yenilenir ve güncel metin uygulamanın içinde de yer alır.
+
+9. İletişim
+
+Bu gizlilik politikasıyla ilgili sorularınız için bizimle iletişime geçebilirsiniz:
+E-posta: info@linesofthebrain.com
+
+English Privacy Policy
+
+LOOPORA — Privacy Policy
+Last updated: November 23, 2026
+App: LOOPORA (com.toprak.loopora)
+Contact: info@linesofthebrain.com
+
+LOOPORA respects your privacy. The app does not require an account and does not transmit any personal data to any server. All of your data stays strictly on your device.
+
+1. Data Stored Locally on Your Device
+
+To provide core step-tracking functionality, LOOPORA stores the following information only in your device's local storage:
+
+Your daily step count and step history
+Calculated distance and estimated calories burned
+Your daily and weekly step goals, streaks, badges, and sprint records
+Profile details you enter: weight, height, and optional age and sex
+App preferences (theme, language, and notification settings)
+
+None of this data is uploaded to remote servers, stored in the cloud, or accessible to the developer.
+
+2. Physical Activity and Health Data (Health Connect / HealthKit)
+Activity Recognition (ACTIVITY_RECOGNITION): The app uses your device's built-in step counter sensor to measure daily steps and sprint sessions.
+Health Connect (Android) and HealthKit (iOS): With your explicit permission, the app only reads your step count and step history (READ_STEPS, READ_HEALTH_DATA_HISTORY). Nothing is written back to Health Connect or HealthKit.
+Limited Use: Step data obtained from Health Connect or HealthKit is used solely to display your activity inside LOOPORA (daily counter, history charts, streak and badge calculations, and the home screen widget). This data never leaves your device, is never used for advertising, marketing, or profiling, and is never shared with or sold to third parties.
+You can revoke activity or health permissions at any time in your device's system settings.
+3. Internet Access, Third Parties, and Data Sharing
+
+LOOPORA has no internet permission. It contains no advertising networks, analytics tools, crash reporters, or user-tracking SDKs. Your data is never shared with, transferred to, or sold to any third party.
+
+4. Notifications
+
+Daily reminders, goal achievements, weekly summaries, and monthly backup reminders are scheduled and generated entirely on your device (POST_NOTIFICATIONS, RECEIVE_BOOT_COMPLETED). No server is used.
+
+5. Backup and Restore
+
+Backup files are created only when you explicitly request them. You control where the file is saved or shared. The app never automatically uploads backups anywhere.
+
+6. Data Retention and Deletion
+
+Your data remains on your device until you choose to remove it:
+
+You can permanently delete your step history, profile, goals, and sprint records at any time from Profile → Delete all my data.
+Uninstalling the app or clearing app storage in system settings removes all local data as well.
+Because no copy is stored externally, no separate deletion request is required.
+Step data stored in Health Connect or Apple Health belongs to the operating system and is not deleted by LOOPORA; you can manage it directly in your system health app.
+7. Children's Privacy
+
+LOOPORA is not directed at children under 13. Because the app collects and transmits no personal data at all, no data from children is collected.
+
+8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last updated" date at the top of this page and updating the in-app privacy policy text.
+
+9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+Email: info@linesofthebrain.com
